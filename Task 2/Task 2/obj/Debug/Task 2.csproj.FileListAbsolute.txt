@@ -1,0 +1,16 @@
+C:\Visual\Task 2\Task 2\bin\Debug\Task 2.exe.config
+C:\Visual\Task 2\Task 2\bin\Debug\Task 2.exe
+C:\Visual\Task 2\Task 2\bin\Debug\Task 2.pdb
+C:\Visual\Task 2\Task 2\obj\Debug\Task 2.csproj.AssemblyReference.cache
+C:\Visual\Task 2\Task 2\obj\Debug\Task 2.csproj.SuggestedBindingRedirects.cache
+C:\Visual\Task 2\Task 2\obj\Debug\MainWindow.g.cs
+C:\Visual\Task 2\Task 2\obj\Debug\App.g.cs
+C:\Visual\Task 2\Task 2\obj\Debug\Task 2_MarkupCompile.cache
+C:\Visual\Task 2\Task 2\obj\Debug\Task 2_MarkupCompile.lref
+C:\Visual\Task 2\Task 2\obj\Debug\MainWindow.baml
+C:\Visual\Task 2\Task 2\obj\Debug\Task 2.g.resources
+C:\Visual\Task 2\Task 2\obj\Debug\Task_2.Properties.Resources.resources
+C:\Visual\Task 2\Task 2\obj\Debug\Task 2.csproj.GenerateResource.cache
+C:\Visual\Task 2\Task 2\obj\Debug\Task 2.csproj.CoreCompileInputs.cache
+C:\Visual\Task 2\Task 2\obj\Debug\Task 2.exe
+C:\Visual\Task 2\Task 2\obj\Debug\Task 2.pdb
